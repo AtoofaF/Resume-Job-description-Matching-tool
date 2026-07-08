@@ -1,7 +1,7 @@
 # Resume Job description Matching tool
 AI-powered resume and job description matcher using Gemini API and Streamlit
 
-# Resume ↔ Job Description Matcher
+# Resume Job Description Matcher
 
 An AI-powered tool that compares a resume against a job description and returns a match score, matching/missing skills, and actionable suggestions to improve fit.
 
